@@ -35,7 +35,7 @@
     "covgen": "^3.1.0",
     "dotenv": "^16.0.3",
     "envalid": "^7.3.1",
-    "eth-crypto": "^2.4.0",
+    "eth-crypto": "^2.7.0",
     "ethereumjs-util": "^7.1.5",
     "ethereumjs-wallet": "^1.0.2",
     "execa": "^1.0.0",
